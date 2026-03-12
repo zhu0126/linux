@@ -10,7 +10,8 @@
 - ls -l   ->  show detiles
 - ls -a   ->  show hidden files
 ***
-3. cat (read file)
+3. cat (concatenate file and print output)
+- cat -v   ->  show hidden character
 - 
 ***
 4. chmod
