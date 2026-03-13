@@ -12,11 +12,14 @@
 ***
 3. cat (concatenate file and print output)
 - cat -v   ->  show hidden character
-- 
 ***
-4. chmod
+4. chmod (change read,write,execute for each group)
+- chmod +x  ->  user can execute
 ***
 5. grep
 ***
 6. run python/bash
 ***
+***
+## tips
+1. mail -> under /var/mail/
