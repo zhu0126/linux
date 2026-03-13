@@ -22,4 +22,5 @@
 ***
 ***
 ## tips
-1. mail -> under /var/mail/
+1. mail ->  under /var/mail/
+2. shell ->  under /bin/bash
