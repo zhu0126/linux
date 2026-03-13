@@ -20,9 +20,10 @@
 ***
 6. run python/bash
 ***
-***
+
 ## tips
 1. mail ->  echo $MAIL or env | grep -i "mail"
 - under /var/mail/
-3. shell ->  echo $SHELL or cat /etc/passwd | grep "user"
+2. shell ->  echo $SHELL or cat /etc/passwd | grep "user"
 - under /bin/bash
+3. network interface  -> ip a
