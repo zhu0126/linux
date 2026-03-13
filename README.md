@@ -22,5 +22,7 @@
 ***
 ***
 ## tips
-1. mail ->  under /var/mail/
-2. shell ->  under /bin/bash
+1. mail ->  echo $MAIL or env | grep -i "mail"
+- under /var/mail/
+3. shell ->  echo $SHELL or cat /etc/passwd | grep "user"
+- under /bin/bash
